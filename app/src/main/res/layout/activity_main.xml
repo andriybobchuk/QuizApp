@@ -7,7 +7,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        android:background="@color/purple_200"
+        android:background="@drawable/ic_bg"
         tools:context=".MainActivity">
 
     <TextView
